@@ -1,0 +1,15 @@
+debug/configwidget.o
+debug/configwidget2.o
+debug/convertwidget.o
+debug/convertwidget2.o
+debug/main.o
+debug/mainwindow.o
+debug/mysqlwidget.o
+debug/workthread.o
+debug/qrc_image.o
+debug/moc_configwidget.o
+debug/moc_configwidget2.o
+debug/moc_convertwidget.o
+debug/moc_convertwidget2.o
+debug/moc_mainwindow.o
+debug/moc_workthread.o

@@ -1,0 +1,15 @@
+release/configwidget.o
+release/configwidget2.o
+release/convertwidget.o
+release/convertwidget2.o
+release/main.o
+release/mainwindow.o
+release/mysqlwidget.o
+release/workthread.o
+release/qrc_image.o
+release/moc_configwidget.o
+release/moc_configwidget2.o
+release/moc_convertwidget.o
+release/moc_convertwidget2.o
+release/moc_mainwindow.o
+release/moc_workthread.o
